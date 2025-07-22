@@ -4,7 +4,7 @@ console.log(avengers[0]);
 
 //! 1.2 Cambia el primer elemento de avengers a "IRONMAN"
 const avengers1 = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
-avengers1[1] = "SPIDERMAN";
+avengers1[0] = "IRONMAN";
 //! 1.3 console numero de elementos en el array usando la propiedad correcta de Array.
 const avengers2 = ["HULK", "SPIDERMAN", "BLACK PANTHER"];
 console.log(avengers2.length);
